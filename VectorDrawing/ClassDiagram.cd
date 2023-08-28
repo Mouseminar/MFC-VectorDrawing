@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VectorDrawingDlg.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Add_Func_Dlg" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gACAAAAQgBAAACAIABBEGgAEAFRkAAQAgANEGAAAAAA=</HashCode>
+      <FileName>Add_Func_Dlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Board_Setting_Dlg" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEBEAAAAQAAAAAAAAAAAEACAAAAA=</HashCode>
+      <FileName>Board_Setting_Dlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyCircle" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAACAIAAAAAAAAAAIAAQAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>CMyCircle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyData" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAIAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMyData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyFunc" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAIASAgAMAAAAAAQAAAAAAAAAAAAIgAAAAAAAAA=</HashCode>
+      <FileName>CMyFunc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyLine" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAMAAAAIAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>CMyLine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyPoint" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMyPoint.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyPolygon" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAACIAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAEAA=</HashCode>
+      <FileName>CMyPolygon.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Draw_Circle_Dlg" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAACAAAABAAAAAAQAAAAAAAAABEAAAAAAA=</HashCode>
+      <FileName>Draw_Circle_Dlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Draw_Elliptic_Dlg" Collapsed="true">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAQAEAAAAAgAAEAAAACAA=</HashCode>
+      <FileName>Draw_Elliptic_Dlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Draw_Func_Dlg" Collapsed="true">
+    <Position X="15.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAIAAAAAAAAAEBAAAAAQAAAAAAAAACAEAGABAAA=</HashCode>
+      <FileName>Draw_Func_Dlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Draw_Heartline_Dlg" Collapsed="true">
+    <Position X="17.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAARAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Draw_Heartline_Dlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Draw_Hyperbola_Dlg" Collapsed="true">
+    <Position X="19" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAABAAAAAAQAAAAAAAAAIEAAAAAAA=</HashCode>
+      <FileName>Draw_Hyperbola_Dlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Draw_Line_Dlg" Collapsed="true">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FAAAAAAAAAAAAAAAMBAAAAAAAAAAACQAAAAGAAAAAAA=</HashCode>
+      <FileName>Draw_Line_Dlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Draw_Point_Dlg" Collapsed="true">
+    <Position X="13.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAgAAABAABAAAAAAQAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Draw_Point_Dlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Draw_Polygon_Dlg" Collapsed="true">
+    <Position X="15.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAACEAEAAAAAAIABAAAAAABAAEAAoAAIBkAAAAAAA=</HashCode>
+      <FileName>Draw_Polygon_Dlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Intersection_Dlg" Collapsed="true">
+    <Position X="17.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAABEAAAAEAAAAABAEAAAABAAAIAAAAAAEAAAABAg=</HashCode>
+      <FileName>Intersection_Dlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Outline_Setting_Dlg" Collapsed="true">
+    <Position X="19" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAKAgEEEAAAAAAgABAAABECAAAAAAiAEAAAEAIAAAE=</HashCode>
+      <FileName>Outline_Setting_Dlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pen_Setting_Dlg" Collapsed="true">
+    <Position X="12" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAEEEAAgAAAAABAAAAACAAAAAAGAMAAEEAIAAAA=</HashCode>
+      <FileName>Pen_Setting_Dlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point_Moving_Dlg" Collapsed="true">
+    <Position X="13.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAABGgAAAAAAAAAFAAAAAARAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Point_Moving_Dlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point_Symmetry1_Dlg" Collapsed="true">
+    <Position X="15.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAABGAAAAAAEAAABAAAAAARAAAAAAAAAAUgAAAAAA=</HashCode>
+      <FileName>Point_Symmetry1_Dlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point_Symmetry2_Dlg" Collapsed="true">
+    <Position X="17.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAABGAAAAAAEAAABAAAAAARAAAACAAAAAEAAAAAAA=</HashCode>
+      <FileName>Point_Symmetry2_Dlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Style_Setting_Dlg" Collapsed="true">
+    <Position X="19" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAABAAAAAAQAAAAAAAAABEAAAAAAA=</HashCode>
+      <FileName>Style_Setting_Dlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CVectorDrawingApp" Collapsed="true">
+    <Position X="17.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAAAAAAA=</HashCode>
+      <FileName>VectorDrawing.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CVectorDrawingDlg" Collapsed="true">
+    <Position X="19" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EJCCABEAEAAShJJ8NJEggCFUBRCJyQwguYCR4EBQBgA=</HashCode>
+      <FileName>VectorDrawingDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="MyDataType" Collapsed="true">
+    <Position X="12" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAgAAAEAAAAAAAAAAAAAAARAAAA=</HashCode>
+      <FileName>CMyData.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
